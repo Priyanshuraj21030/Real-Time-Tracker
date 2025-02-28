@@ -25,7 +25,7 @@ A modern web application built with Vue.js that allows users to share their loca
 1. Clone the repository:
 
 ```bash
-git clone [repository-url]
+git clone https://github.com/Priyanshuraj21030/Real-Time-Tracker
 ```
 
 2. Install dependencies:
